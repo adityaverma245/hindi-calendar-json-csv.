@@ -31,3 +31,27 @@ Perfect for:
 
 ---
 *Maintained by the Agricultural Data Research Team at MonthNamesHindi.*
+[
+  {
+    "hindi_month": "Kartika",
+    "gregorian_months": "October-November",
+    "agricultural_season": "Rabi",
+    "primary_crops": ["Wheat", "Mustard", "Gram"],
+    "lunar_phase": "Waxing/Waning",
+    "reference_url": "https://monthnameshindi.com/rabi-crops/"
+  },
+  {
+    "hindi_month": "Phalguna",
+    "gregorian_months": "February-March",
+    "agricultural_season": "Rabi Harvesting",
+    "primary_crops": ["Barley", "Peas"],
+    "lunar_phase": "Full Moon transition",
+    "reference_url": "https://monthnameshindi.com/rabi-crops/"
+  }
+]
+
+Hindi Month,Gregorian Period,Season Type,Crop Priority
+Kartika,Oct - Nov,Rabi Sowing,High (Wheat/Gram)
+Agrahayana,Nov - Dec,Rabi Growth,Medium (Mustard)
+Pausha,Dec - Jan,Peak Winter,High (Pulses)
+Magha,Jan - Feb,Early Harvest,Medium (Barley)
